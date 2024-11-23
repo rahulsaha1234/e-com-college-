@@ -9,7 +9,7 @@ import LoginSignup from './Pages/LoginSignup';
 import Footer from './Components/Footer/Footer.jsx';
 import men_banner from './Components/Items/banner_man.avif';
 import women_banner from './Components/Items/banner_women.avif';
-import kids_banner from './Components/Items/banner_kids.jpg';
+// import kids_banner from './Components/Items/banner_kids.jpg';
 
 function App() {
   return (
