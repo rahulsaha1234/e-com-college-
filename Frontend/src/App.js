@@ -1,15 +1,15 @@
 import './App.css';
 import Navbar from './Components/Navbar/Navbar.jsx';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-// import Shop from './Pages/Shop.jsx';
-// import ShopCatagory from './Pages/ShopCatagory';
-// import Product from './Pages/Product.jsx';
-// import Cart from './Pages/Cart';
-// import LoginSignup from './Pages/LoginSignup';
-// import Footer from './Components/Footer/Footer.jsx';
-// import men_banner from './Components/Items/banner_man.avif';
-// import women_banner from './Components/Items/banner_women.avif';
-// import kids_banner from './Components/Items/banner_kids.jpg';
+import Shop from './Pages/Shop.jsx';
+import ShopCatagory from './Pages/ShopCatagory';
+import Product from './Pages/Product.jsx';
+import Cart from './Pages/Cart';
+import LoginSignup from './Pages/LoginSignup';
+import Footer from './Components/Footer/Footer.jsx';
+import men_banner from './Components/Items/banner_man.avif';
+import women_banner from './Components/Items/banner_women.avif';
+import kids_banner from './Components/Items/banner_kids.jpg';
 
 function App() {
   return (
